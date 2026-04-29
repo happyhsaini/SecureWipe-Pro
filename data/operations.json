@@ -24,7 +24,7 @@
     "verifyWipe": "yes",
     "customPasses": 3,
     "status": "running",
-    "progress": 48,
+    "progress": 50,
     "durationMinutes": 45,
     "startedAt": "2026-04-29T07:57:00Z",
     "completedAt": null
@@ -99,7 +99,7 @@
     "verifyWipe": "yes",
     "customPasses": 7,
     "status": "pending",
-    "progress": 6,
+    "progress": 8,
     "durationMinutes": 45,
     "startedAt": "2026-04-29T08:16:08.647741Z",
     "completedAt": null
