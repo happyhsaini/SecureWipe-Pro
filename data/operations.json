@@ -99,7 +99,7 @@
     "verifyWipe": "yes",
     "customPasses": 7,
     "status": "pending",
-    "progress": 9,
+    "progress": 10,
     "durationMinutes": 45,
     "startedAt": "2026-04-29T08:16:08.647741Z",
     "completedAt": null
